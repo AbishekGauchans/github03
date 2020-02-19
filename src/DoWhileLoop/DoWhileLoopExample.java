@@ -6,7 +6,14 @@ public class DoWhileLoopExample {
 		// TODO Auto-generated method stub
 
 		
-		int a=1;
+		int a=30;
+		int b=40;
+		do {
+			System.out.println(a);a++;
+		}while(a<b);
+		
+		
+		
 	}
 
 }

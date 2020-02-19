@@ -8,7 +8,13 @@ public class Decreament1 {
 		int b=20;
 		b=b-1;
 		System.out.println(b);
+		 int c =30;
 		
+		 
+		 
+		 int  a=b-c;//
+		 System.out.println(a);
+		 
 		
 		
 		
